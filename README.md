@@ -26,5 +26,8 @@ THEN the password is either displayed in an alert or written to the page
 # Mock-Up
 
 # Review
-Gihub:
+Deployed Link:
 
+
+Github Repository:
+https://github.com/yanqinglou/passcode-generator-2022
