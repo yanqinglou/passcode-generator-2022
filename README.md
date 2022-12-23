@@ -29,5 +29,5 @@ THEN the password is either displayed in an alert or written to the page
 Deployed Link:
 
 
-Github Repository:
+Github Repository:https://yanqinglou.github.io/passcode-generator-2022/
 https://github.com/yanqinglou/passcode-generator-2022
